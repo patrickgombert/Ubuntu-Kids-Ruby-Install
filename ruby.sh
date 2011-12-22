@@ -5,5 +5,5 @@ mv ruby-1.9.2-p290 1.9.2-p290
 cd ./1.9.2-p290 && ./configure --prefix=$HOME/.rbenv/versions/1.9.2-p290
 make
 make install
-rbenv rehash
-rbenv global 1.9.2-p290
+~/.rbenv/bin/rbenv rehash
+~/.rbenv/bin/rbenv global 1.9.2-p290
