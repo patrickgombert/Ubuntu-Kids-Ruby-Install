@@ -1,1 +1,1 @@
-sudo apt-get install linux-libc-dev libqt4-dev build-essential bison openssl curl git-core zlib1g zlib1g-dev libssl-dev vim libsqlite3-0 libsqlite3-dev sqlite3 libreadline6-dev libxml2-dev git-core git subversion autoconf xorg-dev libgl1-mesa-dev libglu1-mesa-dev
+sudo apt-get install linux-libc-dev libqt4-dev build-essential cmake bison openssl curl git-core zlib1g zlib1g-dev libssl-dev libsqlite3-0 libsqlite3-dev sqlite3 libreadline6-dev libxml2-dev git-core git autoconf xorg-dev libgl1-mesa-dev libglu1-mesa-dev
