@@ -1,0 +1,5 @@
+Install Script for Kids Ruby
+To use simple clone, go to directory and type:
+<dir>$ ./install.sh
+
+- The install script is dependent on bash & aptitude
