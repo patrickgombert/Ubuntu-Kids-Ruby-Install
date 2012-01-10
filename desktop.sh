@@ -7,5 +7,5 @@ LINE1='Exec=bash '
 LINE2='/kidsruby_runner.sh'
 echo $LINE1$HOME$LINE2 >> $LOC
 echo 'Name=KidsRuby' >> $LOC
-sudo chmod x+a $HOME/Desktop/KidsRuby
+sudo chmod +x $HOME/Desktop/KidsRuby
 mv ./kidsruby_runner.sh $HOME/kidsruby_runner.sh
