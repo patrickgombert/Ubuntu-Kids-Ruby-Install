@@ -1,6 +1,6 @@
 touch $HOME/Desktop/KidsRuby
 LOC=$HOME/Desktop/KidsRuby
-echo '[Desktop Entry]' >> $LOC
+echo '[Desktop Entry]' > $LOC
 echo 'Version=1.0.5' >> $LOC
 echo 'Terminal=false' >> $LOC
 LINE1='Exec=bash '
